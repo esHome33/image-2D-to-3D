@@ -1,0 +1,11 @@
+pour sift_tester.load_images('dfn1.jpg', 'dfn3.png')
+
+Nombre max de features: 100 (ne sert pas)
+Seuil de contraste: 0.050374999999999975
+Seuil d'arête: 7
+Ratio de correspondance: 0.654375 (pour checker les correspondances)
+Keypoints détectés: 51 (img1), 46 (img2)
+Correspondances: 9
+
+sigma = 1.4 pour SIFT
+octaveLayers = 3 pour SIFT
