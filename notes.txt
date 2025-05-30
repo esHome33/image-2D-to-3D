@@ -11,3 +11,14 @@ Algorithme SIFT:
 Algorithme FLANN Matcher:
 
     Ratio de correspondance: 0.65 (pour checker les correspondances)
+
+
+
+Avec images 1 et 3, on peut utiliser ça qui marche pas mal !
+
+        self.ratio_de_correspondance = 0.62
+        self.sigma = 1.35
+        self.octaveLayers = 2
+        self.seuil_de_contraste = 0.050375
+        self.seuil_d_aretes = 10
+        self.max_features = 100
